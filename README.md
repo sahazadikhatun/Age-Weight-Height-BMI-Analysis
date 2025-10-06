@@ -6,7 +6,7 @@ This project analyzes the relationship between Age, Weight, Height, and BMI usin
 The project demonstrates end-to-end data analysis, from exploration and visualization to model building and evaluation.
 
 ## Dataset
-- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/rukenmissonnier/age-weight-height-bmi-analysis__)  
+- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/rukenmissonnier/age-weight-height-bmi-analysis)  
 - **Columns:** 
   - `Age`
   - `Height`
