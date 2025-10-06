@@ -22,10 +22,9 @@ age-weight-bmi-analysis/
 │
 ├── Age_Weight_Height_BMI_Analysis.ipynb # Main notebook with full workflow
 ├── data/
-│ ├── raw/ # Original dataset
-│ └── processed/ # Cleaned/processed data used in analysis
-├── reports/
-│ └── figures/ # Visualizations generated from analysis
+│ ├── raw/ # Original dataset Kaggle Link
+├── documentation/
+├── Project Codes with Visualization/ # figures generated from analysis
 └── README.md
 ```
 
